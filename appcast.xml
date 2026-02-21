@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>VidRepro Actualizaciones</title>
+    <link>https://github.com/ultrasoftnic/vidrepro-releases</link>
+    <description>Actualizaciones de VidRepro</description>
+    <language>es</language>
+    <item>
+      <title>VidRepro 1.0.0</title>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/ultrasoftnic/vidrepro-releases/raw/main/releases/VidRepro_Setup_v1.0.0.exe"
+        sparkle:version="1.0.0"
+        length="75000000"
+        type="application/octet-stream"
+        sparkle:edSignature="FIRMA_AQUI"
+      />
+    </item>
+  </channel>
+</rss>
