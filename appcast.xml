@@ -7,14 +7,15 @@
     <language>es</language>
     <item>
       <title>VidRepro 1.0.0</title>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2026 00:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/ultrasoftnic/vidrepro-releases/raw/main/releases/VidRepro_Setup_v1.0.0.exe"
         sparkle:version="1.0.0"
-        length="75000000"
+        length="59000217"
         type="application/octet-stream"
-        sparkle:edSignature="FIRMA_AQUI"
+        sparkle:edSignature="l/D0aYaINwLZAbT9732kzDPS3ZkUBmIZFoRXHcj12KU4I1rD82Jjxs0wtsuB86fWFc4eSumejhQky7dWHHGwBg=="
       />
     </item>
   </channel>
+
 </rss>
